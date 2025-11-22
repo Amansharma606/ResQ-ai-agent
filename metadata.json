@@ -1,0 +1,5 @@
+{
+  "name": "ResQ-AI India Commander",
+  "description": "Multi-agent emergency response system for India, featuring real-time threat assessment, resource allocation, and evacuation planning using Gemini AI.",
+  "requestFramePermissions": []
+}
